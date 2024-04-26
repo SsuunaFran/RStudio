@@ -1,0 +1,199 @@
+productAvailabilty,stockLevel,SKU,productCategory
+1,outofstock,JPS-285-RF,Toys
+2,instock,ZCX-183-GM,Electronics
+1,outofstock,JPS-285-RF,Toys
+4,outofstock,LMF-575-KP,
+5,outofstock,WZL-666-VG,Electronics
+6,outofstock,REM-182-XU,Clothing
+7,outofstock,MMK-034-FP,Clothing
+8,outofstock,,Sports & Outdoors
+1,outofstock,JPS-285-RF,Toys
+10,outofstock,ZOD-724-FQ,Sports & Outdoors
+11,outofstock,HQB-725-RI,Electronics
+12,outofstock,WCI-869-JC,Sports & Outdoors
+13,instock,,Books
+14,outofstock,WFF-994-YO,Home & Kitchen
+1,outofstock,JPS-285-RF,Toys
+16,instock,QYN-865-GA,Toys
+17,instock,BRX-419-SM,Books
+,outofstock,DTW-216-RO,Home & Kitchen
+19,instock,SLW-936-NE,Clothing
+20,instock,YWR-504-YL,Home & Kitchen
+21,,WYW-799-UG,Clothing
+22,instock,VNA-234-US,Toys
+23,instock,WZB-649-AB,Books
+24,outofstock,OBI-388-JX,Clothing
+25,instock,MHH-092-KB,Toys
+26,instock,QHV-772-AV,Home & Kitchen
+27,instock,IDM-762-AR,Toys
+28,instock,XBX-110-IR,Electronics
+29,instock,CDY-171-PU,Sports & Outdoors
+30,outofstock,HAG-414-VK,Home & Kitchen
+31,instock,RAW-440-SM,Electronics
+32,outofstock,HQR-036-UF,Books
+33,outofstock,HVL-170-BG,Clothing
+,instock,BPM-557-PL,
+35,outofstock,DSW-334-VF,Clothing
+36,outofstock,DXJ-707-KF,Clothing
+37,outofstock,EVT-234-MV,Clothing
+38,outofstock,JII-955-TK,Books
+39,instock,ABK-095-VD,Toys
+40,instock,LRR-531-SF,Home & Kitchen
+41,outofstock,PQT-967-DE,Home & Kitchen
+42,instock,RIN-934-KE,Electronics
+43,instock,FTQ-270-OE,Electronics
+44,outofstock,JDP-358-EC,Home & Kitchen
+45,outofstock,YPM-283-LV,Clothing
+46,instock,EHC-666-NI,Books
+47,outofstock,GNZ-630-LR,Electronics
+48,instock,,Books
+49,outofstock,QSC-779-MN,Clothing
+50,instock,KED-575-NU,Books
+51,instock,IEF-119-RS,Electronics
+52,outofstock,CNZ-832-CK,Sports & Outdoors
+53,outofstock,UBX-002-UR,Electronics
+54,outofstock,NFX-118-MV,Toys
+55,instock,QMG-429-AF,Home & Kitchen
+56,outofstock,KVS-025-GI,Home & Kitchen
+57,outofstock,BBN-351-KF,Books
+58,outofstock,VBO-438-QZ,Electronics
+59,outofstock,WIT-568-FO,Toys
+60,instock,LCR-298-BV,Sports & Outdoors
+61,outofstock,CIW-303-WP,Sports & Outdoors
+62,outofstock,OZQ-344-BD,Clothing
+63,,RIO-809-DH,Sports & Outdoors
+64,instock,XKL-966-SQ,Electronics
+65,outofstock,MFX-271-ML,Books
+66,outofstock,VRW-252-DB,Clothing
+67,outofstock,IOH-789-PL,Books
+68,instock,EAG-668-GB,Clothing
+,instock,UFD-984-VI,Electronics
+70,instock,YZN-427-DI,Electronics
+71,instock,BOI-553-OO,
+72,instock,EYO-059-VX,Home & Kitchen
+73,instock,KWC-523-BV,Home & Kitchen
+74,instock,XPW-478-KX,Electronics
+75,outofstock,ISX-753-ZU,Clothing
+76,instock,ATP-976-KG,Clothing
+77,instock,TFF-045-QT,Home & Kitchen
+78,instock,JAK-654-QC,Toys
+79,outofstock,AWP-419-RG,Clothing
+80,outofstock,DIA-829-JD,Sports & Outdoors
+81,instock,,Books
+82,instock,UEP-268-RR,Clothing
+83,outofstock,OTG-028-QO,Toys
+84,outofstock,SVQ-294-OJ,Books
+85,instock,HOF-953-CK,Books
+86,outofstock,OIG-235-QW,Sports & Outdoors
+87,instock,,Books
+88,instock,PZS-950-DE,Electronics
+89,outofstock,MWA-330-LL,Clothing
+90,outofstock,QZT-820-GQ,Sports & Outdoors
+91,outofstock,JZN-687-HM,Electronics
+92,outofstock,QEW-180-UE,Clothing
+93,instock,VXS-022-LP,Home & Kitchen
+94,outofstock,RGL-190-RB,Electronics
+95,outofstock,KGA-329-UT,Clothing
+96,instock,FFN-181-OS,Electronics
+97,instock,UKF-225-YU,Clothing
+,outofstock,PJC-314-PN,Electronics
+99,outofstock,EAX-962-KW,
+100,instock,DQW-926-RZ,Electronics
+101,outofstock,QMG-051-FF,Toys
+102,instock,VEE-049-LL,Sports & Outdoors
+103,instock,JKJ-099-NE,Toys
+104,instock,INK-083-RX,Home & Kitchen
+105,instock,TGC-920-IQ,Toys
+106,outofstock,SXL-581-VC,Books
+,outofstock,MGF-703-CO,Electronics
+108,outofstock,CNA-194-BX,Books
+109,instock,JDD-181-SH,Toys
+110,,CJN-091-RJ,Home & Kitchen
+111,instock,EVC-231-ER,Electronics
+112,instock,ZGR-017-GI,Clothing
+113,outofstock,BEN-246-WQ,Toys
+114,instock,OUA-131-PR,Clothing
+115,instock,AOD-235-UJ,Clothing
+116,outofstock,YOX-162-NQ,Electronics
+117,outofstock,DNJ-709-VZ,Electronics
+118,outofstock,,Clothing
+119,instock,XUJ-986-MY,
+120,instock,UZU-248-MF,Home & Kitchen
+121,outofstock,TUV-905-FU,Sports & Outdoors
+,outofstock,BOO-855-OG,Toys
+123,outofstock,XTR-743-NZ,Books
+124,instock,RVC-745-MM,Toys
+125,instock,YUM-063-BJ,Sports & Outdoors
+126,outofstock,WBS-294-SL,Sports & Outdoors
+127,instock,BNM-210-RW,Clothing
+128,outofstock,YHB-342-SR,Toys
+129,outofstock,BJD-253-MW,Books
+,instock,FNZ-572-AE,Books
+131,outofstock,CJD-527-VK,Toys
+132,instock,DGI-517-MG,Clothing
+133,outofstock,,Toys
+134,outofstock,,Clothing
+135,outofstock,MTF-495-UJ,Toys
+136,instock,MDS-111-ZI,Toys
+137,outofstock,XHX-109-OQ,Sports & Outdoors
+138,outofstock,HRY-788-FP,Sports & Outdoors
+139,instock,CYZ-588-JW,
+140,outofstock,AAZ-047-KI,Electronics
+141,instock,SEC-134-IQ,Home & Kitchen
+142,instock,BTJ-058-CT,Sports & Outdoors
+143,instock,JDS-330-RS,Home & Kitchen
+144,instock,ASS-221-AE,Electronics
+145,outofstock,YLB-565-FT,Books
+146,instock,MZN-152-OB,Clothing
+147,outofstock,BEC-500-HG,Sports & Outdoors
+148,instock,TCZ-542-BL,Home & Kitchen
+149,instock,RFQ-695-LA,Toys
+150,instock,HCL-568-NH,Clothing
+151,instock,HAD-180-RN,Sports & Outdoors
+152,instock,ABR-721-BO,Electronics
+153,outofstock,,Clothing
+154,instock,BSG-492-ID,Electronics
+155,instock,VTJ-736-UC,Electronics
+156,instock,IGK-189-DY,Electronics
+157,instock,WAU-769-EF,Toys
+158,instock,WTM-237-TS,Books
+159,outofstock,YOR-131-XV,Home & Kitchen
+160,outofstock,HCI-584-PI,Home & Kitchen
+161,outofstock,VND-297-DK,Clothing
+162,outofstock,XGN-263-WB,Electronics
+163,instock,VEL-425-KL,Books
+164,instock,ERF-629-DU,Electronics
+,instock,OAR-583-LU,Home & Kitchen
+166,instock,ZJW-984-BC,Sports & Outdoors
+167,instock,KYC-820-SO,Home & Kitchen
+168,instock,,Clothing
+169,instock,NPU-199-IZ,Books
+170,instock,KOS-273-VQ,Home & Kitchen
+171,outofstock,MSF-672-HF,Sports & Outdoors
+172,instock,UJQ-182-QP,Clothing
+173,outofstock,MCL-856-OU,Sports & Outdoors
+,outofstock,OED-842-ME,Sports & Outdoors
+175,outofstock,HNJ-246-QH,Toys
+176,outofstock,MTV-464-AT,Toys
+177,instock,GEH-725-NS,Home & Kitchen
+178,outofstock,DTU-060-RL,Sports & Outdoors
+179,outofstock,NUK-703-ND,Books
+180,outofstock,XFF-441-EM,Electronics
+181,outofstock,UKJ-709-DI,Electronics
+182,instock,YYP-579-KI,Electronics
+183,outofstock,QGA-775-GS,Clothing
+,instock,GQG-196-TO,Clothing
+185,outofstock,XFB-615-NA,Sports & Outdoors
+186,outofstock,BKT-971-AV,Toys
+187,outofstock,JOB-219-UW,Sports & Outdoors
+188,instock,VOL-093-WE,Toys
+189,instock,ZHK-766-TE,Electronics
+190,outofstock,,Toys
+191,outofstock,ABV-181-JQ,Toys
+192,outofstock,CFP-466-HC,Home & Kitchen
+,outofstock,JMT-837-HQ,Electronics
+194,instock,LRS-115-MM,
+195,instock,XII-474-CW,Books
+196,,MGD-932-OQ,Sports & Outdoors
+197,outofstock,PWM-732-RK,Electronics
+198,instock,KVS-877-UM,

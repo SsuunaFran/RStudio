@@ -1,0 +1,200 @@
+age,gender,incomeLevel,location,customer_id
+44,Female,Medium,Świętochłowice,1
+37,Male,Medium,Ardee,2
+47,Male,Low,Brusyliv,3
+29,Agender,High,Kafr Sawm,4
+26,Female,Medium,Ituberá,5
+47,Male,Low,Soi Dao,6
+98,Female,High,Kōfu-shi,7
+72,Female,Medium,Zhangshui,8
+70,Female,Low,Larangan,9
+74,Male,High,Ballivor,10
+46,Male,Medium,Xinjiezhen,11
+63,Female,Medium,Chão de Couce,12
+29,Male,High,Shabo,13
+85,Male,High,Frederiksberg,14
+65,Male,High,Sipoholon,15
+85,Male,Medium,Gwoźnica Górna,16
+84,Female,Low,Pagedangan,17
+80,Male,Low,Ipoh,18
+92,Female,Medium,Rizal,19
+90,Female,Low,Yuewan,20
+28,Female,Low,Campos Novos,21
+81,Female,Low,Shanglu,22
+84,Female,Medium,Xiapu,23
+27,Female,Low,Qingduizi,24
+56,Female,Low,Izra‘,25
+82,Male,High,Tamansari,26
+57,Female,Low,Liang,27
+54,Male,Medium,Waeng Yai,28
+40,Female,Medium,Nashville,29
+77,Male,High,Gorshechnoye,30
+32,Female,High,Bennäs,31
+40,Female,High,Bella Unión,32
+74,Male,Low,Santa Cruz de Barahona,33
+81,Non-binary,High,Panguna,34
+58,Male,Medium,Waru,35
+77,Genderfluid,Medium,Graneros,36
+36,Male,Low,Nong Phok,37
+41,Female,High,Alès,38
+77,Female,High,Kihangara,39
+93,Male,High,Mobai,40
+98,Female,High,San Juan del Surutú,41
+43,Female,Medium,Kotel’niki,42
+54,Male,Low,Lecherías,43
+55,Female,High,Ambian,44
+54,Female,Low,Sundsvall,45
+81,Male,Medium,Shikhazany,46
+90,Male,Medium,Sampungu,47
+25,Male,High,Phoenix,48
+65,Genderqueer,Medium,Fontenay-sous-Bois,49
+60,Female,Medium,Vaggeryd,50
+22,Male,Medium,Kristiansand S,51
+41,Female,High,Winangun,52
+80,Female,Low,Los Fresnos,53
+62,Agender,Medium,Jequitinhonha,54
+21,Female,Medium,Batulenger Barat,55
+85,Female,Low,Laborde,56
+55,Genderfluid,Medium,Tianxin,57
+70,Female,Medium,Gibgos,58
+30,Female,Medium,Berlin,59
+81,Male,Medium,Balogo,60
+95,Male,Medium,Tuka,61
+77,Male,Medium,Akankpa,62
+28,Male,Low,Yoiqag,63
+87,Male,Low,Stoney Ground,64
+39,Agender,High,Shitan,65
+90,Female,High,eSikhawini,66
+27,Female,Low,Kadaka,67
+23,Female,High,Burns Lake,68
+23,Male,Low,Sennoy,69
+98,Female,Medium,Xilinji,70
+61,Female,Medium,La Salud,71
+23,Male,Low,Fonte Boa da Brincosa,72
+39,Male,High,Regente Feijó,73
+58,Female,Low,Puerto Ayacucho,74
+40,Female,Low,Bulubrangsi,75
+26,Genderqueer,Low,Niort,76
+52,Female,High,Peski,77
+91,Female,High,Kaiyun,78
+78,Male,Medium,Bagaces,79
+70,Male,Low,Željezno Polje,80
+49,Male,Low,Cachadinha,81
+81,Female,Medium,Sasaguri,82
+42,Female,High,Göteborg,83
+20,Male,High,Yangfang,84
+36,Male,Medium,Bailang,85
+20,Female,Medium,Gândara,86
+100,Female,Medium,Raszczyce,87
+58,Male,High,Stegna,88
+66,Male,Low,Monasterevin,89
+69,Male,High,Suchedniów,90
+73,Female,High,Lusambo,91
+51,Female,Medium,Shchelkovo,10
+28,Female,Medium,Bigoudine,11
+41,Female,Low,Kulaman,12
+67,Male,High,Javānrūd,13
+76,Male,High,Tumba,14
+69,Male,High,Provo,15
+42,Male,Low,Syriam,16
+53,Female,Low,Beishidian,17
+45,Bigender,Low,Chancay,18
+67,Female,Low,Mikulintsy,19
+81,Male,High,Lilongwe,20
+25,Female,Low,Rosh Pinna,103
+81,Genderqueer,Low,Chenqiao,104
+57,Female,Medium,Khánh Hải,105
+40,Male,High,Zumarraga,106
+67,Female,Low,Rumboci,107
+42,Male,High,Solingen,108
+82,Male,Low,Independencia,109
+26,Male,High,Ozëry,110
+59,Male,Medium,Potrerillos,111
+68,Genderfluid,Medium,Quintã,112
+47,Male,Low,Leping,113
+56,Male,High,Skole,114
+73,Male,High,Nyala,115
+55,Female,Low,San Bernardino,116
+72,Genderqueer,Medium,Lewodoli,117
+78,Female,Medium,Ts’khinvali,118
+78,Female,Medium,Télimélé,119
+38,Male,Low,Digne-les-Bains,120
+24,Male,Low,Majan,121
+32,Male,Low,Engenheiro Beltrão,122
+20,Male,Medium,Tawau,123
+30,Polygender,Medium,Korosten’,124
+90,Genderqueer,Medium,Ganjiang,125
+97,Female,High,Jinkou,126
+43,Genderqueer,High,Inta,127
+45,Female,Low,Tungdor,128
+92,Genderfluid,Medium,Rio Formoso,129
+97,Female,High,Mainz,130
+26,Male,Medium,Tranås,131
+99,Male,High,Vårgårda,132
+72,Male,Low,Kota Kinabalu,133
+70,Female,Medium,Xiuyu,134
+99,Female,Low,Hai Riêng,135
+63,Female,Medium,Palykavichy Pyershyya,136
+98,Female,Low,Lorica,137
+21,Female,Low,Bolilao,138
+46,Male,High,Upper San Mateo,139
+25,Male,Medium,Buur Gaabo,140
+41,Male,Low,Nowshera Cantonment,141
+82,Agender,High,Xuchang,142
+98,Female,Medium,Mandaue City,143
+57,Male,High,Sanjia,144
+91,Male,Medium,Huarong Chengguanzhen,145
+45,Female,High,Zamboanga,146
+43,Female,High,Foumban,147
+30,Male,High,Jönköping,148
+48,Male,High,Suleja,149
+62,Female,High,Ignacio Zaragoza,150
+50,Male,Medium,Sabirabad,151
+72,Female,High,Santa Ana,152
+66,Female,Medium,Parthenay,153
+100,Female,High,Mont-Laurier,154
+24,Female,Medium,Krenggan,155
+27,Male,Low,Cikadu,156
+53,Female,Medium,Solec-Zdrój,157
+53,Male,High,Daxi,158
+80,Female,Low,Bauru,159
+93,Male,Low,Bolszewo,160
+56,Female,Medium,Hangkou,161
+46,Male,Low,Glan,162
+96,Male,Low,Timaru,163
+81,Male,Low,Praga Północ,164
+67,Female,High,Sosnovka,165
+36,Male,Medium,Thetford-Mines,166
+46,Male,Low,Tomé,167
+76,Male,Low,RMI Capitol,168
+44,Male,Low,Nynäshamn,169
+78,Female,Low,Soe,170
+93,Female,High,Alzamay,171
+28,Female,Low,Färjestaden,172
+67,Male,High,El Cantón,173
+51,Female,High,Feitoria,174
+51,Male,High,Sanxi,175
+68,Male,High,Lopandino,176
+49,Male,Medium,Kulykiv,177
+68,Male,High,Chervonoarmiys’k,178
+56,Female,High,Shixi,179
+42,Male,Low,Rostov,180
+79,Female,High,Arras,181
+89,Male,Medium,El Banco,182
+21,Bigender,Low,Medveđa,183
+23,Bigender,Medium,Jalatrang,184
+99,Polygender,Low,Guanhães,185
+22,Male,High,Saint-Étienne,186
+51,Female,High,Patrocinio,187
+21,Genderfluid,Low,Dashi,188
+75,Bigender,Low,Vale de Mendiz,189
+59,Female,Medium,Hallstahammar,190
+80,Agender,Low,Trilj,191
+97,Female,Medium,Caldas das Taipas,192
+55,Male,Medium,Xuelu,193
+92,Genderqueer,Medium,Gisiliba,194
+79,Male,Medium,Yaodian,195
+69,Male,Medium,La Paz,196
+79,Male,Medium,Profítis Ilías,197
+85,Male,High,Shaffa,198
+90,Genderfluid,Low,Velyka Bahachka,199
